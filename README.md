@@ -11,6 +11,7 @@ Modified the query to return results from the past 1 month.
 Updated the filter to include top 3 ranked search terms.
 
 ### Task 4 – Join with Categories
+there was no region data
 Joined the search terms with a simulated `term_categories` table to include categories.
 
 ### Task 5 – Weekly Aggregation
